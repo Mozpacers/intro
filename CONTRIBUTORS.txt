@@ -1,0 +1,19 @@
+Code Contributors
+=================
+
+Sanyam Khurana (gh: CuriousLearner / @ErSanyamKhurana)*
+Kanikaa Murarka (gh: kanikaa1234)
+Saurabh Badhwar (gh: h4xr)
+Sonal Gupta (gh: sonalgupta276)
+
+* Possesses commit rights
+
+Special Thanks
+==============
+
+The following haven't provided code directly, but have provided guidance and advice.
+
+Ajay Kumar (gh: ajaysinghi)
+Bhuvnesh Dogra (gh: bhuvneshdogra)
+Pushpita Piku Dey (gh: Pushpitapikudey)
+Yash Goel (gh: Yashgoel96)
